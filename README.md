@@ -25,3 +25,4 @@ Here, ‘Transported’ is the target variable.
 
 ## Kaggle Challenge Submissions
 
+<img width="1180" alt="Final Submissions" src="https://github.com/user-attachments/assets/6fa89e99-997a-43a9-be36-1844b8c3a4af">
