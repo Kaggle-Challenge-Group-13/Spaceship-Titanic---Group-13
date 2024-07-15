@@ -1,5 +1,8 @@
 # Spaceship-Titanic---Group-13
 
+<img width="578" alt="Spaceship" src="https://github.com/user-attachments/assets/401d8146-e4c6-4583-907c-9f965ec9810d">
+
+
 ## Introduction
 The Spaceship Titanic was an interstellar passenger liner, with almost 13,000 passengers on board. The vessel set out on its maiden voyage transporting emigrants from our solar system to three newly habitable exoplanets orbiting nearby stars. While rounding Alpha Centauri en route to its first destination—the torrid 55 Cancri E—the unwary Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud. Though the ship stayed intact, almost half of the passengers were transported to an alternate dimension. To help rescue crews and retrieve the lost passengers, we predicted which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 (Source - https://www.kaggle.com/competitions/spaceship-titanic/overview)
@@ -19,3 +22,6 @@ The Spaceship Titanic was an interstellar passenger liner, with almost 13,000 pa
 Here, ‘Transported’ is the target variable.
 
 (Source - https://www.kaggle.com/competitions/spaceship-titanic/data)
+
+## Kaggle Challenge Submissions
+
